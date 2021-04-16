@@ -1,0 +1,8 @@
+ros-melodic-cpr-common-core-msgs (0.1.0-1bionic) bionic; urgency=high
+
+  * [cpr_common_core_msgs] Added messages.
+  * Contributors: Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Fri, 16 Apr 2021 04:00:00 -0000
+
+
